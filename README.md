@@ -19,6 +19,8 @@
     - 当开发到一定程度后，认为无法超越sqlmap，遂弃.
   - [Cobra-W](https://github.com/LoRexxar/Kunlun-M/tree/cobra-w) 基于Cobra的基于语义分析的静态代码审计工具（For Whitehat）
     - 主要支持**php、javascript**的语义分析，以及**chrome ext, solidity**的基础扫描.
+  - [Kunlun-M](https://github.com/LoRexxar/Kunlun-M) 基于Cobra-W 2.0 开发的安全研究代码审计辅助工具
+    - loading.
   - HaoTian  一个集监控、扫描、分析一体的智能合约监控平台
     - waiting open source.
 - CVE
