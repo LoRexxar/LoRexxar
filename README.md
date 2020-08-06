@@ -47,7 +47,7 @@
   - CVE-2019-16915 pfsense 2.4.4 p3 any file read & write
 
 - Presentation
-  - CSS2019-Tsec大会 -[<Comprehensive analysis of the mysql client attack chain>](https://github.com/knownsec/404-Team-ShowCase/blob/master/20190801-TSec-Comprehensive%20analysis%20of%20the%20mysql%20client%20attack%20chain(%E5%85%AC%E5%BC%80%E7%89%88).pdf)
+  - CSS2019-Tsec大会 -[Comprehensive analysis of the mysql client attack chain](https://github.com/knownsec/404-Team-ShowCase/blob/master/20190801-TSec-Comprehensive%20analysis%20of%20the%20mysql%20client%20attack%20chain(%E5%85%AC%E5%BC%80%E7%89%88).pdf)
 
 - 我的邮箱是lorexxar@gmail.com
 
