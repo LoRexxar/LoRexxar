@@ -1,16 +1,60 @@
-### Hi there 👋
+### LoRexxar
 
-<!--
-**LoRexxar/LoRexxar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 现Vidar Team 核心成员
+- 现Knownsec 404 Team 安全研究员
+- 原HDUISA核心成员
+- Web🐶/智能合约
+- 喜欢电子竞技/游戏，喜欢分享/bb
+- Web安全研究，主做漏洞挖掘、产品孵化，不会安服， 不懂二进制:>
 
-Here are some ideas to get you started:
+- 我的博客 [https://lorexxar.cn](https://lorexxar.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CTF
+  - HCTF2015
+  - HCTF2016
+  - HCTF2017
+  - HCTF2018 bet2loss
+- 个人项目
+  - [Feigong](https://github.com/LoRexxar/Feigong) 基于实际环境自由变换的注入脚本
+    - 当开发到一定程度后，认为无法超越sqlmap，遂弃.
+  - [Cobra-W](https://github.com/LoRexxar/Kunlun-M/tree/cobra-w) 基于Cobra的基于语义分析的静态代码审计工具（For Whitehat）
+    - 主要支持**php、javascript**的语义分析，以及**chrome ext, solidity**的基础扫描.
+  - HaoTian  一个集监控、扫描、分析一体的智能合约监控平台
+    - waiting open source.
+- CVE
+  - CVE-2017-10991 WordPress WP Statistics 
+  - CVE-2017-11178 finecms 
+  - CVE-2017-11198 finecms 
+  - CVE-2017-11200 finecms 
+  - CVE-2017-11201 finecms 
+  - CVE-2017-11202 finecms 
+  - CVE-2017-11581 FineCMS 
+  - CVE-2017-11582 FineCMS 
+  - CVE-2017-11583 FineCMS 
+  - CVE-2017-11584 FineCMS 
+  - CVE-2017-11585 FineCMS 
+  - CVE-2017-11586 FineCMS 
+  - CVE-2017-16870 Wordpress UpdraftPlus  
+  - CVE-2017-16871 Wordpress UpdraftPlus 
+  - CVE-2019-8423  ZoneMinder
+  - CVE-2019-8424 ZoneMinder
+  - CVE-2019-8425 ZoneMinder
+  - CVE-2019-8426 ZoneMinder
+  - CVE-2019-8427 ZoneMinder
+  - CVE-2019-8428 ZoneMinder
+  - CVE-2019-8429 ZoneMinder before 1.32.3 
+  - CVE-2019-16914 pfsense 2.4.4 p3 xss
+  - CVE-2019-16915 pfsense 2.4.4 p3 any file read & write
+
+- Presentation
+  - CSS2019-Tsec大会 -[<Comprehensive analysis of the mysql client attack chain>](https://github.com/knownsec/404-Team-ShowCase/blob/master/20190801-TSec-Comprehensive%20analysis%20of%20the%20mysql%20client%20attack%20chain(%E5%85%AC%E5%BC%80%E7%89%88).pdf)
+
+- 我的邮箱是lorexxar@gmail.com
+
+
+
+**带着对技术的敬畏之心成长，不安于一隅...**
+
+
+**“当你老了，回顾一生，就会发觉。什么时候出国读书，什么时候决定做第一份职业，何时选定了对象而恋爱，什么时候结婚，都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你做出选择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。” 摘自陶杰《杀鹌鹑的少女》**
+
