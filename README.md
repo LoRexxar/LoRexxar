@@ -1,11 +1,11 @@
 ### LoRexxar
 
-- 现Vidar Team 核心成员
-- 现Knownsec 404 Team 安全研究员
-- 原HDUISA核心成员
+- 原HDUISA核心成员、现Vidar Team 核心成员、现Knownsec 404 Team 安全研究员
 - Web🐶/智能合约
 - 喜欢电子竞技/游戏，喜欢分享/bb
 - Web安全研究，主做漏洞挖掘、产品孵化，不会安服， 不懂二进制:>
+
+![](https://github-readme-stats.vercel.app/api?username=LoRexxar)
 
 - 我的博客 [https://lorexxar.cn](https://lorexxar.cn)
 
