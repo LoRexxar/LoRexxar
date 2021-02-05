@@ -4,7 +4,7 @@
 - 现Knownsec 404 Team 安全研究员
 - 原HDUISA核心成员
 - **Web🐶/智能合约**
-- 喜欢**电子竞技/游戏**，魔兽世界7版本WCL紫色KBZ，Dota2万古流芳，LoL黄金Ⅳ，炉石标准传说，战棋7000+，喜欢分享/bb😊
+- 喜欢**电子竞技/游戏**，魔兽世界7版本WCL紫色KBZ/9版本大米橙色KBZ，Dota2万古流芳，LoL黄金Ⅳ，炉石标准传说，战棋7000+，喜欢分享/bb😊
 - Web安全研究/开发，主做漏洞挖掘、产品孵化，不会安服， 不懂二进制:>
 - 安全研究方向主要集中在白盒审计、自动化漏洞挖掘领域
 
@@ -23,7 +23,9 @@
   - [Cobra-W](https://github.com/LoRexxar/Kunlun-M/tree/cobra-w) 基于Cobra的基于语义分析的静态代码审计工具（For Whitehat）
     - 主要支持**php、javascript**的语义分析，以及**chrome ext, solidity**的基础扫描.
   - [Kunlun-M](https://github.com/LoRexxar/Kunlun-M) 基于Cobra-W 2.0 开发的安全研究代码审计辅助工具
-    - loading.
+    - 添加了web/shell模式，并添加了两个实用的小插件，专注于为安全研究人员做代码审计辅助工具.
+  - [LSpider](https://github.com/knownsec/LSpider) 为被动扫描器而生的爬虫
+    - 优化到一定程度，发现爬虫没办法和扫描器分家，遂开辟扫描器项目.
   - HaoTian  一个集监控、扫描、分析一体的智能合约监控平台
     - waiting open source.
 - CVE
