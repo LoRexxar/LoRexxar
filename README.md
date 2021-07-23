@@ -1,7 +1,8 @@
 ### LoRexxar
 
+- 现Mi security Team
 - 现Vidar Team 核心成员
-- 现Knownsec 404 Team 安全研究员
+- 前Knownsec 404 Team 安全研究员
 - 原HDUISA核心成员
 - **Web🐶/智能合约**
 - 喜欢**电子竞技/游戏**，魔兽世界7版本WCL紫色KBZ/9版本大米橙色KBZ，Dota2万古流芳，LoL黄金Ⅳ，炉石标准传说，战棋7000+，喜欢分享/bb😊
