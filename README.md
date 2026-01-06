@@ -1,13 +1,9 @@
 ### LoRexxar
 
-- 现QAX TianGong实验室
-- 现Vidar Team 核心成员
-- 原Mi security Team
-- 原Knownsec 404 Team
-- 原HDUISA核心成员
+- 别问我是谁，那不是我啊m-m
+- Vidar Team
 - **Web🐶**
-- 公众号：**LoRexxar自留地**~平时分享一些生活随笔~
-- 喜欢**电子竞技/游戏**，魔兽世界，Dota2万古流芳，LoL黄金Ⅳ，炉石标准传说，战棋8000+，喜欢分享/bb😊
+- 喜欢**电子竞技/游戏**，喜欢分享/bb😊
 - Web安全研究/开发，主做漏洞挖掘、工具研发，不会安服，不懂二进制:>
 - 安全研究方向主要集中在白盒审计、自动化漏洞挖掘领域
 
@@ -58,10 +54,6 @@
   - CSS2019-Tsec大会 -[Comprehensive analysis of the mysql client attack chain](https://github.com/knownsec/404-Team-ShowCase/blob/master/20190801-TSec-Comprehensive%20analysis%20of%20the%20mysql%20client%20attack%20chain(%E5%85%AC%E5%BC%80%E7%89%88).pdf)
 
 - 我的邮箱是lorexxar@gmail.com
-
-
-
-**带着对技术的敬畏之心成长，不安于一隅...**
 
 
 **“当你老了，回顾一生，就会发觉。什么时候出国读书，什么时候决定做第一份职业，何时选定了对象而恋爱，什么时候结婚，都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你做出选择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。” 摘自陶杰《杀鹌鹑的少女》**
