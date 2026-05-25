@@ -17,9 +17,10 @@
   - HCTF2017
   - HCTF2018 bet2loss
 - 个人项目
-  - [Kunlun-M](https://github.com/LoRexxar/Kunlun-M) 基于Cobra-W 2.0 开发的静态白盒扫描工具
-    - 支持PHP、JavaScript的语义扫描，基础安全、组件安全扫描，Chrome Ext\Solidity的基础扫描。
+  - [Kunlun-M](https://github.com/LoRexxar/Kunlun-M) 纯静态白盒漏洞扫描工具
+    - 支持PHP、JavaScript、Java的语义扫描，基础安全、组件安全扫描，Chrome Ext\Solidity的基础扫描。
     - 增加CLI、Web等多种调度模式，深度适配大量安全场景
+    - 针对不同语言的新版本语法特性深度修复parser实现，支持各类新式语法和疑难杂症
   - [LSpider](https://github.com/knownsec/LSpider) 为被动扫描器而生的爬虫
     - 发现爬虫没办法和扫描器分家，遂放弃更新该项目.
 - CVE
